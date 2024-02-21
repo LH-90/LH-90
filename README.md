@@ -1,4 +1,4 @@
-Curious mind exploring the "why" behind everything! 🔍 🌐 🚀 📚
+Curious mind exploring the "why" behind everything!  🔍 🌐 🚀 📚
 
 
 #### Languages & Tools
