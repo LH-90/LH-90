@@ -1,6 +1,4 @@
-Curious mind exploring the "why" behind everything while embracing the dynamic world of technology with a particular fascination for AI! 
-
-🔍 🌐 🚀 📚 #EternalLearner
+Curious mind exploring the "why" behind everything! 🔍 🌐 🚀 📚
 
 
 #### Languages & Tools
