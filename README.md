@@ -14,7 +14,7 @@ Curious mind exploring the "why" behind everything 🤔
 ![React](https://img.shields.io/badge/-React-1E2A3A?style=flat&logo=react) ![Swift](https://img.shields.io/badge/-Swift-1E2A3A?style=flat&logo=swift) ![SwiftUI](https://img.shields.io/badge/SwiftUI-1E2A3A?style=flat&logo=swift)
 
 
-#### IDEs & editors
+#### Editors & IDEs
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-1E2A3A?style=flat&logo=visual-studio-code)  ![XCode](https://img.shields.io/badge/XCode-1E2A3A?style=flat&logo=xcode&logoColor=007ACC) 
 
