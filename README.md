@@ -1,4 +1,4 @@
-### Languages & Tools
+### Tech Stack
 <br>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-1E2A3A?style=flat&logo=JavaScript) ![React](https://img.shields.io/badge/-React-1E2A3A?style=flat&logo=react) ![Sass](https://img.shields.io/badge/-Sass-1E2A3A?style=flat&logo=sass) ![Node.js](https://img.shields.io/badge/-Node.js-1E2A3A?style=flat&logo=node.js) ![Python](https://img.shields.io/badge/-Python-1E2A3A?style=flat&logo=python) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-1E2A3A?style=flat&logo=postgresql&logoColor=white) 
